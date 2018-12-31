@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Hi, I'm Yongming
+title: Welcome
 permalink: /
 section: home
 intro_paragraph: >
-
-I'm a doctoral candidate in the Philosophy department at Brown. I grew up in Singapore, and did my undergraduate work there, at The National University of Singapore.
-
-
+[Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
+  provides the basics to get a fast, static website deployed on Netlify.
+Features [Netlify CMS](https://www.netlifycms.org), responsive
+  CSS Grid layout, sample
+  pages and posts, and a continuous deployment workflow.
 ---
