@@ -11,6 +11,6 @@ My main research interests are in moral philosophy. Much of my work involves usi
 
 My teaching interests include critical thinking, applied ethics (healthcare ethics, ethics of technology), aesthetics (especially food and literature), and the philosophy of gender, race, and post-colonialism.
 
-[My CV can be found here.]()
+My CV can be found here.
 
 ---
