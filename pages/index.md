@@ -13,4 +13,6 @@ My teaching interests include critical thinking, applied ethics (healthcare ethi
 
 I grew up in Singapore, and did my undergraduate work there, at The National University of Singapore.
 
+My email is ym_han at brown.edu
+
 <!-- My CV can be found here.-->
