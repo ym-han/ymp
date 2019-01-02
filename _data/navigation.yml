@@ -2,9 +2,9 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
-- text: Contact
-  url: /contact
-- text: Blog
-  url: /blog
+- text: Research
+  url: /research
+- text: Teaching
+  url: /teaching
+- text: Non-Philosophical
+  url: /nonphil
