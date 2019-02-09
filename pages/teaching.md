@@ -5,15 +5,9 @@ permalink: /Teaching
 section: teaching
 intro_paragraph: ''
 ---
-<!-- ## Resources
-
-\[under construction]-->
-
-## Experience
-
 Instructor of Record
 
-* Healthcare Ethics and The Ethics of Technology
+* Healthcare Ethics and The Ethics Of Technology
   (Intensive one-week summer course for high school students)
 
 Teaching Assistant
