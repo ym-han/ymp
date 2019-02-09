@@ -5,6 +5,12 @@ permalink: /Teaching
 section: teaching
 intro_paragraph: ''
 ---
+<!-- ## Resources
+
+\[under construction]-->
+
+## Experience
+
 Instructor of Record
 
 * Healthcare Ethics and The Ethics Of Technology
