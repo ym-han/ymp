@@ -13,7 +13,7 @@ intro_paragraph: ''
 
 Instructor of Record
 
-* Healthcare Ethics and The Ethics Of Technology
+* Healthcare Ethics and The Ethics of Technology
   (Intensive one-week summer course for high school students)
 
 Teaching Assistant
