@@ -15,10 +15,10 @@ Below are various works in progress, organized by theme. Comments are most welco
 
 My primary research program turns on affairs of the _heart_: it involves advancing a broadly neo-Humean, subjectivist view in moral philosophy, one at whose core is the claim that our loves and cares are not based on reasons. 
 
-Desire and Loving for Properties (under review)
-Love's Fittingness: a No-Reasons Guide (stable draft available; will be sending out soon)
-In Search of Reasons to Care about Morality (in progress)
-The Heart of Subjectivism (in progress)
+- Desire and Loving for Properties (under review)
+- Love's Fittingness: a No-Reasons Guide (stable draft available; will be sending out soon)
+- In Search of Reasons to Care about Morality (in progress)
+- The Heart of Subjectivism (in progress)
 
 ## Subsidiary research programs
 
