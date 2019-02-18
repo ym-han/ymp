@@ -3,16 +3,14 @@ layout: page
 title: Research
 permalink: /research
 section: research
-intro_paragraph: >
+intro_paragraph: >-
   My research tackles issues at the intersection of moral psychology, normative
   ethics, and metaethics, as well as in the philosophy of mind and language. My
   hope, in the longer term, is to start working in addition on topics in the
   philosophy of race, as well as in the ethics of technology.
-
-
-  Below are various works in progress, organized by theme. Comments are most
-  welcome!
 ---
+Below are various works in progress, organized by theme. Comments are most welcome!
+
 # Love and moral cares
 
 My primary research program turns on affairs of the _heart_: it involves advancing a broadly neo-Humean, subjectivist view in moral philosophy, one at whose core is the claim that our loves and cares are not based on reasons. 
@@ -21,6 +19,8 @@ My primary research program turns on affairs of the _heart_: it involves advanci
 * Love's Fittingness: a No-Reasons Guide (stable draft available; will be sending out soon)
 * In Search of Reasons to Care about Morality (in progress)
 * The Heart of Subjectivism (in progress)
+
+
 
 # Subsidiary research programs
 
