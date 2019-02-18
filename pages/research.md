@@ -20,8 +20,6 @@ My primary research program turns on affairs of the _heart_: it involves advanci
 * In Search of Reasons to Care about Morality (in progress)
 * The Heart of Subjectivism (in progress)
 
-
-
 # Subsidiary research programs
 
 My subsidiary research programs are about issues at the interface of _thought and communication_ --- though with an eye towards the interplay of these, again, with our more affective states.
