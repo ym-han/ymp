@@ -26,5 +26,3 @@ My subsidiary research programs are about issues at the interface of _thought an
 
 * The Residue Approach to Simple Sentences (under review)
 
-<!-- It seems more natural to say, e.g., "Clark went into the phone booth and Superman came out" in describing one of Clark/Superman's transformations than "Superman went into the phone booth and Clark came out". Strikingly, the former seems more natural even if everyone in the conversation knows the identity. In this paper, I argue that the explanation of why we prefer to say one rather than the other of the sentences when we _don't_ know the identity extends also to typical cases where we _do_. For what explains cases where we don't know the identity is that our Clark- and Superman-beliefs are distinct: they play different roles in our psychology. But such distinctness in beliefs isn't the kind of thing that would tend to be erased merely by our coming to know the identity.
--->
