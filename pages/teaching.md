@@ -15,7 +15,7 @@ intro_paragraph: ''
 
 ## Experience
 
-Instructor of Record
+__Instructor of Record__
 
 * Healthcare Ethics and The Ethics of Technology
   (Intensive one-week summer course for high school students)
@@ -23,7 +23,7 @@ Instructor of Record
 I will also be teaching an Ethics of Technology course for high school students this summer, along with a college-level Introduction to Moral Philosophy course (the students will comprise both undergraduates and high school students).
 
 
-Teaching Assistant
+__Teaching Assistant__
 
 * Philosophy of Law, Spring 2019 (Dave Estlund)
 * Introduction to Logic, Fall 2018, 2014 (Richard Kimberly Heck; Joshua Schechter)
