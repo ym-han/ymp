@@ -5,9 +5,9 @@ permalink: /Teaching
 section: teaching
 intro_paragraph: ''
 ---
-<!-- ## Resources
+## Resources
 
-\[under construction]-->
+
 
 ## Experience
 
