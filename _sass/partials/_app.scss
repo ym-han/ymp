@@ -66,6 +66,7 @@ header > nav {
     display: flex;
     li {
       margin-right: 2rem;
+      margin-left: 2rem;
       padding: 10px;
       // needed to remove [display: inline-block;]
       @media screen and (min-width: $screen-sm-min) {
