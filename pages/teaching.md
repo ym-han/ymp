@@ -9,12 +9,19 @@ intro_paragraph: ''
 
 \[under construction]-->
 
+## Resources
+
+* [A rubric I'd adapted from other sources](https://ymhan.netlify.com/assets/img/uploads/rubric-for-website.pdf)
+
 ## Experience
 
 Instructor of Record
 
 * Healthcare Ethics and The Ethics of Technology
   (Intensive one-week summer course for high school students)
+
+I will also be teaching an Ethics of Technology course for high school students this summer, along with a college-level Introduction to Moral Philosophy course (the students will comprise both undergraduates and high school students).
+
 
 Teaching Assistant
 
