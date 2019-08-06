@@ -9,7 +9,7 @@ I'm a doctoral candidate in the Philosophy department at Brown. My main research
 
 My primary research program involves advancing a broadly neo-Humean, subjectivist view in moral philosophy, one at whose core is the claim that our loves and cares are not based on reasons.
 
-My teaching interests include critical thinking, applied ethics (healthcare ethics, ethics of technology), aesthetics (especially food and literature). I hope, down the line, to be able to teach work in the philosophy of gender, race, and post-colonialism.
+My teaching interests include critical thinking, applied ethics (healthcare ethics, ethics of technology), aesthetics (especially food and literature). I hope to eventually be able to teach courses on the philosophy of gender, race, and post-colonialism.
 
 I grew up in Singapore, and did my undergraduate work there, at The National University of Singapore.
 
