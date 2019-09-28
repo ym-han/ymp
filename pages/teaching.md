@@ -17,10 +17,13 @@ intro_paragraph: ''
 
 __Instructor of Record__
 
-* Introduction to Moral Philosophy, Summer 2019 (Co-instructed this college-level course with Matthew Schrepfer; students included both high-school students and Brown University undergraduates)
+* Introduction to Moral Philosophy, Summer 2019 
+
+	(Co-instructed this college-level course with Matthew Schrepfer; students included both high-school students and Brown University undergraduates)
 
 * Healthcare Ethics and The Ethics of Technology, Summer 2018
-  (Intensive one-week summer course for high school students)
+  	
+  	(Intensive one-week summer course for high school students)
 
 
 
