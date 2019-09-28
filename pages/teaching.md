@@ -17,10 +17,11 @@ intro_paragraph: ''
 
 __Instructor of Record__
 
-* Healthcare Ethics and The Ethics of Technology
+* Introduction to Moral Philosophy, Summer 2019 (Co-instructed this college-level course with Matthew Schrepfer; students included both high-school students and Brown University undergraduates)
+
+* Healthcare Ethics and The Ethics of Technology, Summer 2018
   (Intensive one-week summer course for high school students)
 
->I will also be teaching an Ethics of Technology course for high school students this summer, along with a college-level Introduction to Moral Philosophy course (the students will comprise both undergraduates and high school students).
 
 
 __Teaching Assistant__
