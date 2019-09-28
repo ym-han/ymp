@@ -4,19 +4,17 @@ title: Research
 permalink: /research
 section: research
 intro_paragraph: >-
-  My research tackles issues at the intersection of moral psychology, normative
-  ethics, and metaethics, as well as in the philosophy of mind and language. My
-  hope, in the longer term, is to start working in addition on topics in the
-  philosophy of race, as well as in the ethics of technology.
+  My research tackles issues at the intersection of moral psychology, normative ethics, and metaethics, as well as in the philosophy of mind and language. My hope, in the longer term, is to start working in addition on topics in the ethics of technology.
 ---
-Below are various works in progress, organized by theme. Comments are most welcome!
 
 ### Love and moral cares
 
 My primary research program turns on affairs of the _heart_: it involves advancing a broadly neo-Humean, subjectivist view in moral philosophy, one at whose core is the claim that our loves and cares are not based on reasons. 
 
-* Desire and Loving for Properties _(under review)_
-* Love's Fittingness: a No-Reasons Guide _(stable draft available; will be sending out soon)_
+In particular, my dissertation (see the first three papers below) argues that tackles perhaps the most counterintuitive case for such a view: namely, that of *morally* relevant cares and concerns, such as the desire to campaign on behalf of the downtrodden and oppressed. Such cares can seem like responses to reasons. I argue, however, that we don't need to invoke reasons to explain how we come to acquire (or lose) morally relevant cares. And I do so by first explaining why, analogously, we don't need to invoke reasons to explain how it can seem as if we come to love for reasons. 
+
+* Do We Love for Reasons? [*Philosophy and Phenomenological Research*, available via early web view.](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12638) 
+* Love's Fittingness: a No-Reasons Guide _(under review)_
 * In Search of Reasons to Care about Morality _(in progress)_
 * The Heart of Subjectivism _(in progress)_
 
@@ -24,4 +22,4 @@ My primary research program turns on affairs of the _heart_: it involves advanci
 
 My subsidiary research programs are about issues at the interface of _thought and communication_ --- though with an eye towards the interplay of these, again, with our more affective states.
 
-* The Residue Approach to Simple Sentences _(under review)_
+* The Residue Approach to Simple Sentences
