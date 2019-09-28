@@ -18,6 +18,7 @@ In particular, my dissertation (see the first three papers below) argues that ta
 * Do We Love for Reasons? *forthcoming in* [*Philosophy and Phenomenological Research*; available via early web view.](https://onlinelibrary.wiley.com/doi/abs/10.1111/phpr.12638) 
 
 
+
 #### In progress or under review
 
 * Love's Fittingness: a No-Reasons Guide _(under review)_
