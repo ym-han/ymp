@@ -11,8 +11,4 @@ My primary research program involves advancing a broadly neo-Humean, subjectivis
 
 My teaching interests include critical thinking, applied ethics (healthcare ethics, ethics of technology), aesthetics (especially food and literature). I hope to eventually be able to teach courses on the philosophy of gender, race, and post-colonialism.
 
-I grew up in Singapore, and did my undergraduate work there, at The National University of Singapore.
-
-My email is ym_han at brown.edu
-
-<!-- My CV can be found here.-->
+My email is ym_han at brown.edu; my CV can be found [here](https://www.dropbox.com/s/y5lc6zm60x82xj1/ymh%20cv%20phil%20website%20jan%2020.pdf?dl=0).
